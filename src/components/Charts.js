@@ -63,7 +63,7 @@ class Chart extends Component{
                         },
                         title: {
                             display: true,
-                            text: 'EOM Bizworks Mobile Hourly Report',
+                            text: 'The Title of the Report',
                             fontSize: 28,
                             position: 'top',
                             fontFamily: 'Arial'
